@@ -3,4 +3,5 @@ This project aims to implement the Grid-based FastSLAM algorithm on a Turtlebot.
 
 # References
 [1] Dr.Cyrill Stachniss, Robot Mapping course, University of Freiburg. https://www.youtube.com/watch?v=3Yl2aq28LFQ&index=15&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_
+
 [2] Thrun et.al., Probabilistic Robotics
