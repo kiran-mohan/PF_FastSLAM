@@ -64,7 +64,7 @@ class particle:
 
     def observation_model(self,scan):
         zt = scan.ranges
-        d = ray_trace(scan,self.pose,self.grid_map)
+        d = raytrace(scan,self.pose,self.grid_map)
         weight = 1.0/(np.linalg.norm(zt-d) + 1)
         return weight
 
